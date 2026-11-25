@@ -29,7 +29,7 @@ Aplikasi cuaca berbasis **Flutter (Dart)** dengan pola arsitektur **MVVM (Modelâ
 
 | Home / Weather Screen | Search / Location Screen | Menu Favorit & Pengaturan |
 | :---: | :---: | :---: |
-| ![Home Screen](<img width="361" height="797" alt="image" src="https://github.com/user-attachments/assets/c702ddc9-2bd0-46ae-9251-dbd0a423d4b4" />
-) | ![Search Screen](<img width="362" height="803" alt="image" src="https://github.com/user-attachments/assets/503878a6-7bd9-4640-b6b8-52ad5d841403" />
-) | ![Menu Drawer](<img width="360" height="799" alt="image" src="https://github.com/user-attachments/assets/54b05fe4-b300-401c-8a72-d33f2bd67c85" />
-) |
+| ![Home Screen]<img width="361" height="797" alt="image" src="https://github.com/user-attachments/assets/c702ddc9-2bd0-46ae-9251-dbd0a423d4b4" />
+| ![Search Screen](<img width="362" height="803" alt="image" src="https://github.com/user-attachments/assets/503878a6-7bd9-4640-b6b8-52ad5d841403" />
+| ![Menu Drawer](<img width="360" height="799" alt="image" src="https://github.com/user-attachments/assets/54b05fe4-b300-401c-8a72-d33f2bd67c85" />
+|
